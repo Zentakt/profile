@@ -15,7 +15,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Zentakt </h1>
 <h3 align="center">Web Developer | Dront-end Developer </h3>
 <p align="center">
-<a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40"></a>
+<a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="hack_ovindu" height="30" width="40"></a>
 <a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="lin_ovindu" height="30" width="40"></a>  
 <a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40"></a>
 <a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="insta_ovindu" height="30" width="40"></a>
