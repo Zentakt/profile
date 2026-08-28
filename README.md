@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Age-20-blue">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen">
   <img src="https://img.shields.io/badge/Lives-Philippines%20-success">
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen">
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Cebuano%20%26%20Tagalog%20%26%20Ilonggo-brightgreen">
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Zentakt </h1>
